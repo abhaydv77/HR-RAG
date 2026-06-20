@@ -13,3 +13,4 @@ aiofiles==24.1.0
 sentence-transformers==3.4.1
 numpy<2
 
+psycopg2-binary==2.9.10
